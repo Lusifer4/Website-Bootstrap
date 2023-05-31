@@ -1,0 +1,44 @@
+.imgslider {
+    height: 900px;
+}
+body {
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+
+.hakkimizda {
+    background-color: #c4c4c4;
+}
+
+.ayrac {
+    border: none;
+    border-top: 3px solid #192f4d;
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.igri {
+    color: #192f4d;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #c4c4c4;
+    background-color: #c4c4c4;
+}
+
+.ibeyaz {
+    color: #192f4d;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid white;
+    background-color: white;
+}
+
+.galeri{
+background-color: #c4c4c4;
+}
+
+.figure:hover{
+opacity: 0.8;
+}
